@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: gsulcac/gitops
-  newTag: 78a663283c4667365a03a3dd3f2d6058bcba24c4
+  newTag: 5e4751c0ee9934f2478796dca9bd0bcaf567d0cd
